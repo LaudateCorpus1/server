@@ -157,7 +157,7 @@
     "regextras": "^0.8.0",
     "sass": "^1.56.1",
     "sass-loader": "^13.2.0",
-    "sinon": "<= 5.0.7",
+    "sinon": "<= 15.0.2",
     "style-loader": "^3.3.1",
     "ts-node": "^10.9.1",
     "tslib": "^2.4.1",
